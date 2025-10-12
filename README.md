@@ -40,7 +40,7 @@ This repository requires the **FoldX** executable to run the `run_classifier` sc
    ```bash
    cd /path/to/Rate4Site
 
-git clone https://github.com/Rostlab/ConSurf.git temp_ConSurf
+`git clone https://github.com/Rostlab/ConSurf.git temp_ConSurf`
 
 ## Usage
 `python3 run_classifier.py <protein1.pdb> <protein2.pdb>` 
