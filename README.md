@@ -43,5 +43,19 @@ This repository requires the **FoldX** executable to run the `run_classifier` sc
 
 git clone https://github.com/Rostlab/ConSurf.git temp_ConSurf
 
+#### Usage
+`python3 run_classifier.py <protein1.pdb> <protein2.pdb>` 
+
+Make sure both protein1.pdb and protein2.pdb in the same folder of run_classifier,py code.
+
+### Example 
+`python3 run_foldx.py example1.pdb example2.pdb`
+
+
+
+
+
+
+
 
 
