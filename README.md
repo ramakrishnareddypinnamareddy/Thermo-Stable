@@ -1,8 +1,5 @@
 # Thermo-Stable
-
-# Protein Classifier Setup
-
-
+# Integrating sequence, structure, and graph-based features for elucidating the stability of thermophilic proteins
 
 ![Wrok Flow](Image.png)
 ## Prerequisites
