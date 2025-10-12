@@ -2,11 +2,11 @@
 
 # Protein Classifier Setup
 
-## Prerequisites
+
 
 ![Wrok Flow](Image.png)
 
-
+## Prerequisites
 This repository requires the **FoldX** executable to run the `run_classifier` script.
 
 ### Steps to Setup FoldX
