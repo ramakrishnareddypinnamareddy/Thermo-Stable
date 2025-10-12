@@ -21,3 +21,27 @@ This repository requires the **FoldX** executable to run the `run_classifier` sc
    Run the following command to make it executable:
    ```bash
    chmod +x foldx
+
+### Setup Rate4Site
+
+#### Option 1: Manual Download
+
+1. Go to the ConSurf GitHub repository: [https://github.com/Rostlab/ConSurf](https://github.com/Rostlab/ConSurf)  
+2. Click the green **Code** button and select **Download ZIP**.  
+3. Extract the downloaded ZIP file.  
+4. Copy all the contents from the extracted folder into your existing `Rate4Site` folder.  
+   - Example:
+     ```bash
+     cp -r /path/to/ConSurf-master/* /path/to/Rate4Site/
+     ```
+
+#### Option 2: Using Git
+
+1. Navigate to your `Rate4Site` folder:
+   ```bash
+   cd /path/to/Rate4Site
+
+git clone https://github.com/Rostlab/ConSurf.git temp_ConSurf
+
+
+
