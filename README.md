@@ -4,6 +4,9 @@
 
 ## Prerequisites
 
+![Wrok Flow](Image.png)
+
+
 This repository requires the **FoldX** executable to run the `run_classifier` script.
 
 ### Steps to Setup FoldX
