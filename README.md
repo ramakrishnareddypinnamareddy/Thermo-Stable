@@ -48,7 +48,7 @@ This repository requires the **FoldX** executable to run the `run_classifier` sc
 Make sure both protein1.pdb and protein2.pdb in the same folder of run_classifier,py code.
 
 ### Example 
-`python3 run_foldx.py example1.pdb example2.pdb`
+`python3 run_classifier.py example1.pdb example2.pdb`
 
 
 
