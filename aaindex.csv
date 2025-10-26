@@ -1,0 +1,23 @@
+1,Name,Volume,"Localized electrical effect (Fauchere et al., 1988)","Short and medium range non-bonded energy per residue (Oobatake-Ooi, 1977)",Total weighted degree of the graph (obtained by adding all the weights of,"pK-N (Fasman, 1976)"
+1,Name,Volume,"Localized electrical effect (Fauchere et al., 1988)","Short and medium range non-bonded energy per residue (Oobatake-Ooi, 1977)",Total weighted degree of the graph (obtained by adding all the weights of,"pK-N (Fasman, 1976)"
+1,Name,Volume,"Localized electrical effect (Fauchere et al., 1988)","Short and medium range non-bonded energy per residue (Oobatake-Ooi, 1977)",Total weighted degree of the graph (obtained by adding all the weights of,"pK-N (Fasman, 1976)"
+2,A,0.691,-0.01,-7.02,2,9.69
+3,R,0.728,0.04,-10.131,12,8.99
+4,N,0.596,0.06,-9.424,8,8.8
+5,D,0.558,0.15,-9.296,8,9.6
+6,C,0.624,0.12,-8.19,4,8.35
+7,Q,0.649,0.05,-10.044,10,9.13
+8,E,0.632,0.07,-10.467,10,9.67
+9,G,0.592,0,-5.456,0,9.78
+10,H,0.646,0.08,-12.15,14,9.17
+11,I,0.809,-0.01,-9.512,8,9.68
+12,L,0.842,-0.01,-10.52,8,9.6
+13,K,0.767,0,-9.666,10,9.18
+14,M,0.709,0.04,-10.424,8,9.21
+15,F,0.756,0.03,-12.485,14,9.18
+16,P,0.73,0,-8.652,8,10.64
+17,S,0.594,0.11,-7.782,4,9.21
+18,T,0.655,0.04,-8.764,6,9.1
+19,W,0.743,0,-14.42,24,9.44
+20,Y,0.743,0.03,-12.36,18,9.11
+21,V,0.777,0.01,-8.778,6,9.62
