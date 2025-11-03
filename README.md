@@ -23,7 +23,7 @@ This repository requires the **FoldX** executable to run the `run_classifier` sc
 
 ### Setup Rate4Site
 
-#### Option 1: Manual Download
+#### Option 1: Manual Download (If the code shows error in  conservation score)
 
 1. Go to the ConSurf GitHub repository: [https://github.com/Rostlab/ConSurf](https://github.com/Rostlab/ConSurf)  
 2. Click the green **Code** button and select **Download ZIP**.  
