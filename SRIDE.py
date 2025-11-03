@@ -235,7 +235,7 @@ def main():
         df = pd.DataFrame(results)
 
     output_file = "./output/stabilizing_residues_summary.csv"
-    df.to_csv(output_file, index=False)
+    #df.to_csv(output_file, index=False)
     print(f"\nSummary saved to: {output_file}")
 
 if __name__ == "__main__":
