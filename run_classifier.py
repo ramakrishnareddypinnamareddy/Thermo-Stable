@@ -11,7 +11,9 @@ import zipfile
 with zipfile.ZipFile("protein_thermo_meso_classifier.zip", "r") as zip_ref:
     zip_ref.extractall(".")  # Extracts all contents to the current directory
 
-
+#with zipfile.ZipFile("foldx.zip", "r") as zip_ref:
+#    zip_ref.extractall(".")  # Extracts all contents to the current directory
+    
 # === CONFIG ===
 CSV_FILE = "meso_thermo_sequences.csv"  # update to your CSV file name
 MESO_COL = "Meso_Sequence"
